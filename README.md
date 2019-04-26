@@ -39,7 +39,7 @@ To get started with the building process, you'll need to get familiar with [Git 
 To initialize your local repository, use a command like this:
 
 ```bash
-    repo init -u git://github.com/Dot-Extended/manifest.git -b pie --depth=1
+    repo init -u https://github.com/dot-extended-gp/manifest -b pie --depth=1
 ```
 
 Then to sync up:
