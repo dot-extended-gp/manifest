@@ -24,8 +24,8 @@
   <project path="vendor/samsung" name="Galaxy-MSM8916/proprietary_vendor_samsung" groups="device" remote="Galaxy-MSM8916"/>
 
  <!-- Qcom audio  -->
-  <remove-project name="android_hardware_qcom_audio" />
-  <project path="hardware/qcom/audio-caf/msm8916" name="Galaxy-MSM8916/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="lineage-16.0-caf-8916" />
+ <!-- <remove-project name="android_hardware_qcom_audio" />
+  <project path="hardware/qcom/audio-caf/msm8916" name="Galaxy-MSM8916/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="lineage-16.0-caf-8916" /> -->
 
  <!-- TWRP -->
  <!--  <project path="bootable/recovery-twrp" name="OmniROM/android_bootable_recovery" remote="github" revision="android-9.0"/> -->
