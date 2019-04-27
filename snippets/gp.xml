@@ -9,7 +9,7 @@
     <remote  name="dotex"
            fetch="https://github.com/dot-extended-gp"
            revision="Pie" />
-  <remove-project name="device/generic/mini-emulator-arm64" />
+
   <remove-project name="device/generic/mini-emulator-x86" />
   <remove-project name="device/generic/mini-emulator-x86_64" />
   <remove-project name="device/generic/qemu" />
