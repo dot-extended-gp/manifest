@@ -62,7 +62,6 @@
   <!-- Galaxy Grand Prime/Fortuna -->
   <project path="device/samsung/gprimelte-common" name="android_device_samsung_gprimelte-common" groups="device" remote="dotex"/>
   <project path="device/samsung/fortuna3g" name="android_device_samsung_fortuna3g" groups="device" remote="dotex"/>
-  <project path="device/samsung/fortunalteub" name="android_device_samsung_fortunalteub" groups="device" remote="dotex"/>
   <project path="device/samsung/fortunave3g" name="android_device_samsung_fortunave3g" groups="device" remote="dotex"/>
   
  </manifest>
