@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/samgrande/manifest-1/dot-p/Untitled-1.png" > 
+<img src="https://raw.githubusercontent.com/hungphan2001/manifest-4/pie/art.png" > 
 </p>
 <p >
 <img src="https://raw.githubusercontent.com/samgrande/manifest-1/dot-p/Untitled-3.png" > 
@@ -12,17 +12,18 @@
 Downloads:
 =========
 
-[![Download dotOS 3.x - P](https://img.shields.io/sourceforge/dd/dotos-downloads.svg)](https://sourceforge.net/projects/dotos-downloads/files/latest/download)
+[![Download Dot-Extended 3.x - P](https://img.shields.io/sourceforge/dw/dotos-downloads.svg)](https://sourceforge.net/projects/dot-extended/files/latest/download)
 
-[![Download dotOS 3.x - P](https://img.shields.io/sourceforge/dw/dotos-downloads.svg)](https://sourceforge.net/projects/dotos-downloads/files/latest/download)
+[![Download Dot-Extended - P](https://img.shields.io/sourceforge/dw/dotos-downloads.svg)](https://sourceforge.net/projects/dot-extended/files/latest/download)
 
-[![Download dotOS 3.x - P](https://img.shields.io/sourceforge/dm/dotos-downloads.svg)](https://sourceforge.net/projects/dotos-downloads/files/latest/download)
+[![Download Dot-Extended - P](https://img.shields.io/sourceforge/dw/dotos-downloads.svg)](https://sourceforge.net/projects/dot-extended/files/latest/download)
 
-[![Download dotOS 3.x - P](https://img.shields.io/sourceforge/dt/dotos-downloads.svg)](https://sourceforge.net/projects/dotos-downloads/files/latest/download)
+[![Download Dot-Extended - P](https://img.shields.io/sourceforge/dw/dotos-downloads.svg)](https://sourceforge.net/projects/dot-extended/files/latest/download)
 
 Credits:
 =======
  * [**AOSP**](https://android.googlesource.com)
+ * [**dotOS**](https://github.com/dotOS)
  * [**LineageOS**](https://github.com/LineageOS)
  * [**DirtyUnicorns**](https://github.com/dirtyunicorns)
  * [**AospExtended**](https://github.com/AospExtended)
@@ -79,12 +80,10 @@ make bacon
 
 Some Links:-
 ============
-* [**Website**](https://www.droidontime.com)
-* [**Google Plus**](https://plus.google.com/communities/101137692192340076065)
-* [**Telegram Public Chat**](https://t.me/dotos)
-* [**Telegram Channel**](https://t.me/dotOSchannel)
-* [**Facebook Page**](https://www.facebook.com/dotosofficial)
-* [**Twitter**](https://twitter.com/dotosofficial)
+* [**Telegram Public Chat**](https://t.me/dotextended)
+* [**Telegram Channel**](https://t.me/dotextendedchannel)
+* [**Facebook Page**](https://www.facebook.com/dotextended)
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/samgrande/manifest-1/dot-p/Untitled-4.png" > 
